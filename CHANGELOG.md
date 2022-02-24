@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/bangarangler/semantic-versioning/compare/v0.1.9...v0.1.10) (2022-02-24)
+
+
+### Bug Fixes
+
+* **.verisonrc:** trying to get docs and other fields to display in the changelog ([69fb65f](https://github.com/bangarangler/semantic-versioning/commit/69fb65f0de4febe042793461ed3d35cf39080d34))
+* **.versionrc:** trying to get all items showing up in changelog ([53cc826](https://github.com/bangarangler/semantic-versioning/commit/53cc826f6940d8019b1ad5465c0b650aaa5a8637))
+
 ### [0.1.9](https://github.com/bangarangler/semantic-versioning/compare/v0.1.8...v0.1.9) (2022-02-24)
 
 
