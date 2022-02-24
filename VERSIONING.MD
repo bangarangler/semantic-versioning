@@ -6,7 +6,7 @@
 
 ## Fix
 
-- `git commit -m "fix: Details about the fix"`
+- `git commit -m "fix: Details about the fix TESTING"`
 
 ## Improvement
 
