@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/bangarangler/semantic-versioning/compare/v0.1.8...v0.1.9) (2022-02-24)
+
+
+### Docs
+
+* **versioning.md:** removed it as no longer needed ([386065d](https://github.com/bangarangler/semantic-versioning/commit/386065d483ab192185dc1616e9748832a641df70))
+
 ### [0.1.8](https://github.com/bangarangler/semantic-versioning/compare/v0.1.7...v0.1.8) (2022-02-24)
 
 ### [0.1.7](https://github.com/bangarangler/semantic-versioning/compare/v0.1.6...v0.1.7) (2022-02-24)
