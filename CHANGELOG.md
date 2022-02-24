@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.12](https://github.com/bangarangler/semantic-versioning/compare/v0.1.11...v0.1.12) (2022-02-24)
+
+
+### Bug Fixes
+
+* **app.tsx:** random test ([6c4eab6](https://github.com/bangarangler/semantic-versioning/commit/6c4eab6a141714c6465b3247f6d1460a12b4686f))
+* **app.tsx:** random test ([754f477](https://github.com/bangarangler/semantic-versioning/commit/754f477c42fc737d9750608190aa75dc5df938e5))
+
 ### [0.1.11](https://github.com/bangarangler/semantic-versioning/compare/v0.1.10...v0.1.11) (2022-02-24)
 
 
