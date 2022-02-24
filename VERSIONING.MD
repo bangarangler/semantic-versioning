@@ -18,7 +18,7 @@
 
 ## Docs
 
-- `git commit -m "docs(docsAddingOrUpdating): Details about the docs"`
+- `git commit -m "docs: Details about the docs"`
 
 ## Style
 
